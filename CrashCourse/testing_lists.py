@@ -25,7 +25,7 @@ language = programming_languages.pop(4)
 print(f"\nMy list of programming languages after popping the 4th item: ")
 print(programming_languages)
 
-programming_languages.insert(4, language) # put it back
+programming_languages.insert(4, language)  # put it back
 print(f"\nInserting it back: ")
 print(programming_languages)
 
