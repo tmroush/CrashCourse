@@ -25,3 +25,9 @@ print(cars_2)
 length = len(cars_2)
 print(f"\nThe number of cars in cars_2 is {length}.")
 
+# Learning about if statements here - from chapter 5 page 72
+for car in cars:
+    if car == 'bmw':
+        print(car.upper())
+    else:
+        print(car.title())
