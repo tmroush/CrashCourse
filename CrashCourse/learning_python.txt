@@ -1,0 +1,5 @@
+I have learned a lot in Python.
+In Python you can have lists. Lists are similar to arrays, but more like deques. You can pop/push and append and remove.
+In Python you can have tuples. Tuples are just a group of things.
+In Python you can have dictionaries. A dictionary is a key/value pair, similar to attributes in HTML.
+In Python you can do math.
